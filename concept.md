@@ -83,6 +83,6 @@ Levels 1 - 5
      - Game framework
      - Test framework
       - TDD:
-       - Write a failing test
-       - Write implementation to make it pass
-       - Write edge cases/regression tests
+        - Write a failing test
+        - Write implementation to make it pass
+        - Write edge cases/regression tests
