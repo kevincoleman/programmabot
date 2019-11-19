@@ -1,4 +1,4 @@
-In life, she was a professional. Hard-working, energetic, and always whistling a tune, she had a way of brightening up any room while simultaneously inbuing all others present with a renewed motivation to get some work done.
+In life, she was a professional. Hard-working, energetic, and always whistling a tune, she had a way of brightening up any room while simultaneously imbuing all others present with a renewed motivation to get some work done.
 
 Most others knew her by her first name, but to you, she was "Grandma."
 
